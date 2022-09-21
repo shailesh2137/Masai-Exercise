@@ -14,4 +14,8 @@ for(let i=1;i<=5;i++)
     {
       console.log(i,"Prime");
     }
+    else
+	{
+	   console.log(i,"Not Prime");
+	}
    
