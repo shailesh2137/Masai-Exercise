@@ -4,9 +4,9 @@ let rev="";
         rev+=str[i];
    }
    if(str ==rev){
-       print.log(str,"is palindrome");
+       console.log(str,"is palindrome");
        
    }
    else{
-       print.log(str,"isn't palindrome");
+       console.log(str,"isn't palindrome");
    }
